@@ -1,16 +1,18 @@
 {
-  "main.css": "static/css/main.34d7f3cd.css",
-  "main.css.map": "static/css/main.34d7f3cd.css.map",
-  "main.js": "static/js/main.dd485e7b.js",
-  "main.js.map": "static/js/main.dd485e7b.js.map",
+  "main.css": "static/css/main.d09dcd3e.css",
+  "main.css.map": "static/css/main.d09dcd3e.css.map",
+  "main.js": "static/js/main.13c0b3c3.js",
+  "main.js.map": "static/js/main.13c0b3c3.js.map",
   "static\\media\\city.jpg": "static/media/city.e1fc5480.jpg",
   "static\\media\\citysuperlowres.jpg": "static/media/citysuperlowres.2c5c5241.jpg",
+  "static\\media\\formalMe.jpg": "static/media/formalMe.562a503e.jpg",
   "static\\media\\hourglass1.png": "static/media/hourglass1.1c1ebbcd.png",
   "static\\media\\hourglass2.png": "static/media/hourglass2.157d2762.png",
   "static\\media\\hourglass3.png": "static/media/hourglass3.b402f52e.png",
   "static\\media\\medical1.png": "static/media/medical1.03a123bc.png",
   "static\\media\\medical2.png": "static/media/medical2.3310851b.png",
   "static\\media\\medical3.png": "static/media/medical3.e1b758f1.png",
+  "static\\media\\melowres.jpg": "static/media/melowres.69fd9d54.jpg",
   "static\\media\\minibrowser1.png": "static/media/minibrowser1.b2b21844.png",
   "static\\media\\minibrowser2.png": "static/media/minibrowser2.1a8d3201.png"
 }
