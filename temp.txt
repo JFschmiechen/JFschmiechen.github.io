@@ -1,0 +1,7 @@
+                                     <Icon style={{ fontSize: '5em', color: '#f9e79f', marginTop: '1em', zIndex: 1000 }} type="folder-open" />
+
+                    <div className="grid">
+                        <Figure pictures={[medicalthree, medicalone, medicaltwo]} title="Medical systems" subtext="HIPAA compliant mediware solutions"/>
+                        <Figure pictures={[hourglass1, hourglass2, hourglass3]} title="Issue management" subtext="Optimized workflow and dev operations"/>
+                        <Figure pictures={[minibrowser2, minibrowser1]} title="Web interfaces" subtext="Intuitive user experience"/>
+                    </div>
