@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb8776af901e58bc4b6b1be9da8d75ff",
+    "revision": "5a9961371958e8e5a4e0649d514f228c",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.a659536a.chunk.css"
   },
   {
-    "revision": "8e37fa7605d30ceb2ef5",
+    "revision": "1a53c970baaff5e94cb6",
     "url": "/static/css/main.1a9db1bd.chunk.css"
   },
   {
@@ -16,24 +16,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.f266acff.chunk.js"
   },
   {
-    "revision": "8e37fa7605d30ceb2ef5",
-    "url": "/static/js/main.cf1b1b11.chunk.js"
+    "revision": "1a53c970baaff5e94cb6",
+    "url": "/static/js/main.a922ca0b.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "5b2b06421dc85bd66885419e30eb2ba7",
-    "url": "/static/media/bc_channels.5b2b0642.png"
+    "revision": "f283e1c449fefabf7c27befbb7281af7",
+    "url": "/static/media/bc_channels.f283e1c4.jpeg"
   },
   {
     "revision": "c22b978e6f40eb937444b06e8354da4c",
     "url": "/static/media/bc_dash.c22b978e.png"
   },
   {
-    "revision": "66ad1b56f14c0abed6e3d36b5e2d3d69",
-    "url": "/static/media/bc_settings.66ad1b56.png"
+    "revision": "33f8c67c50144abd7384c37f1b571fc4",
+    "url": "/static/media/bc_settings.33f8c67c.jpeg"
   },
   {
     "revision": "deb1a761eea5082a44d201c54c30e824",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/edge_1.9f5c7de4.jpeg"
   },
   {
-    "revision": "c0f879c5ae5a5ce0c624aea2ae1cf7ae",
-    "url": "/static/media/edge_a.c0f879c5.png"
+    "revision": "f1214324bd2ab1ae9a06b922cb7d3d50",
+    "url": "/static/media/edge_a.f1214324.jpeg"
   },
   {
     "revision": "67ca6f96768fc10538828c790b97e87d",
@@ -64,12 +64,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/jamesResume.4ef0bc53.pdf"
   },
   {
-    "revision": "03a123bc8be5b58f6f99ad21ef2b2a20",
-    "url": "/static/media/medical1.03a123bc.png"
+    "revision": "ebdb2187905ce00234c53e8d896e6bc1",
+    "url": "/static/media/medical1.ebdb2187.jpeg"
   },
   {
-    "revision": "3310851b77fce842980643db12c94413",
-    "url": "/static/media/medical2.3310851b.png"
+    "revision": "8a37a5f5799b838b9fafd19b7e3d8ce5",
+    "url": "/static/media/medical2.8a37a5f5.jpeg"
   },
   {
     "revision": "3dc1c28229386bf51afc457698f93212",
